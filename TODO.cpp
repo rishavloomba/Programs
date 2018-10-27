@@ -40,3 +40,6 @@ Circular Linked list
 Stack
 ->infix to postfix 
 ->infix to prefix
+
+Trees
+Binary Search trees
